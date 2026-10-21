@@ -114,7 +114,7 @@ Based on the analysis, the following actions are recommended:
 ## Dashboard Preview
 
 ### Overview
-![Overview](Dashboard_Screenshots/Overview.png)
+![Overview](Dashboard_Screenshots/IMG_2064.jpng)
 
 ### Customer Behaviour
 ![Customer Behaviour](Dashboard_Screenshots/Customer_Behaviour.png)
