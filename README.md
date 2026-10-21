@@ -114,22 +114,22 @@ Based on the analysis, the following actions are recommended:
 ## Dashboard Preview
 
 ### Overview
-![Overview](Dashboard_Screenshots/IMG_2064.jpng)
+![Overview](Dashboard_Screenshots/IMG_2064.jpeg)
 
 ### Customer Behaviour
-![Customer Behaviour](Dashboard_Screenshots/Customer_Behaviour.png)
+![Customer Behaviour](Dashboard_Screenshots/IMG.2065.jpeg)
 
 ### Revenue
-![Revenue](Dashboard_Screenshots/Revenue.png)
+![Revenue](Dashboard_Screenshots/IMG_2066.jpeg)
 
 ### Churn
-![Churn](Dashboard_Screenshots/Churn.png)
+![Churn](Dashboard_Screenshots/IMG_2067.jpeg)
 
 ## Project Documentation
 
 The complete project documentation is available here:
 
-[View Project Documentation](Documentation/Telecom_Customer_Churn_Analysis_Project_Report.pdf)
+[View Project Documentation](ConnectPlus-customer-churn-analysis/Telecom_Customer_Churn_Analysis_Project_Report.pdf)
 
 ## Conclusion
 
